@@ -11,18 +11,11 @@ I used HTML,CSS,JavaScript to make the app.
 
 ### Contribution Guidelines
 
-The contribution guidelines are as per the
-guide [HERE](https://github.com/larymak/Python-project-Scripts/blob/main/CONTRIBUTING.md).
+If you want to see the Demo version of my App click here [HERE](https://youtu.be/YdfGHdEPvm8).
 
-### Instructions
-
-- Fork this repository
-- Clone your forked repository
-- Add your scripts
-- Commit and push
-- Create a pull request
-- Star this repository
-- Wait for pull request to merge
-- Celebrate your first step into the open source world and contribute more
-
-## Additional tools to help you get Started with Open-Source Contribution
+## Instructions
+1. Fork this repository
+2. Clone the forked repository
+3. Add your contributions (code or documentation)
+4. Commit and push
+5. Wait for pull request to be merged
